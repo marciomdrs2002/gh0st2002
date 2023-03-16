@@ -3,7 +3,7 @@ Olá, me chamo Márcio de Medeiros
 
 - 🌱 Estudando front & back-end de Desenvolvimento Web.
 - ⚡ Curiosidade: Sou amante da tecnologia, dedicado e tenho facilidade de aprender coisas novas ! :D
-- 💻Tenho experiência em manuntenção e montagem de Desktop/Notebook.
+- 💻 Tenho experiência em manuntenção e montagem de Desktop/Notebook.
 
 <div align="center">
   <a href="https://github.com/gh0st2002">
